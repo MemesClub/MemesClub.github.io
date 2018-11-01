@@ -78,9 +78,16 @@
 	font-family: 'Arimo', sans-serif;
   font-weight: normal;
   font-size: small;
-  text-align: justify;
   color: #000000;
   margin: 3% 4% 0% 4%;
+}
+.about
+{
+	font-family: 'Arimo', sans-serif;
+  font-weight: normal;
+  font-size: small;
+  color: fa0000;
+
 }
     #images{
         width:500px; 
